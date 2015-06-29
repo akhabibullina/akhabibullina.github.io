@@ -10,6 +10,7 @@ TYPOGRAPHY
 ================================*/
 body {
     font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
     line-height: 1.8em;
 }
 
@@ -313,5 +314,14 @@ FOLLOW BUTTON
 .dribbble-follow-button .count u {
     margin-left: -3px;
     border-right-color: white;
+}
+#clients ul {
+    margin: 0;
+}
+#logo img {
+    width: 150px;
+}
+#hero ul {
+    margin-top: 25px;
 }
 
